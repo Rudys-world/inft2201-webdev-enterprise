@@ -5,3 +5,4 @@ composer.phar
 *.log
 /assignment-2-starter/codebase/vendor
 /assignment-2-starter/node/node_modules
+*.zip
